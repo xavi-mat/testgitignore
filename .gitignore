@@ -9,18 +9,18 @@ cuatro/*
 
 # Designorar en una
 !una
-una/*
+una/**
 !archivo3.txt
 
 # Designorar en dos
 !dos
-/dos/*
+/dos/**
 !archivo3.txt
 
 # Designorar en tres
 !tres
-/tres/*
+/tres/**
 !archivo3.txt
 
 # No consigue designorar en dos/dentro
-!/dos/dentro/masdentro/archivo2.txt
+#!/dos/dentro/masdentro/archivo2.txt
