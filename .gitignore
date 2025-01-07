@@ -21,6 +21,3 @@ una/**
 !tres
 /tres/**
 !archivo3.txt
-
-# No consigue designorar en dos/dentro
-#!/dos/dentro/masdentro/archivo2.txt
