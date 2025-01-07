@@ -1,0 +1,7 @@
+una/
+/dos
+/tres/
+cuatro/*
+/cinco/*
+
+!archivo1.txt
