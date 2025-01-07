@@ -4,5 +4,23 @@ una/
 cuatro/*
 /cinco/*
 
+# Consigue des-ignorar solo en cuatro y cinco
 !archivo1.txt
-!archivo2.txt
+
+# Designorar en una
+!una
+una/*
+!archivo3.txt
+
+# Designorar en dos
+!dos
+/dos/*
+!archivo3.txt
+
+# Designorar en tres
+!tres
+/tres/*
+!archivo3.txt
+
+# No consigue designorar en dos/dentro
+!/dos/dentro/masdentro/archivo2.txt
